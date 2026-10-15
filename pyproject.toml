@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "acceptlicense"
 version = "0.1.0"
-description = "Un paquet python pour gérer vos licences"
+description = "Un outil simple pour gérer et accepter les licences logicielles."
 readme = "README.md"
 authors = [
     { name = "Scratch_2_0_2_4", email = "scratch.20.24.0@gmail.com" }
@@ -13,7 +13,6 @@ authors = [
 license = "MIT"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 requires-python = ">=3.7"
@@ -22,4 +21,4 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/scratch-2-0-2-4/acceptlicense"
+Homepage = "https://github.com/votre-nom-utilisateur/acceptlicense"
