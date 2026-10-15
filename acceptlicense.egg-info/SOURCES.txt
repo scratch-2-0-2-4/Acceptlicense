@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+acceptlicense/Apache_2_0.py
+acceptlicense/CC_BY_SA_4_0.py
+acceptlicense/GNU_GPL_3_0.py
+acceptlicense/__init__.py
+acceptlicense/acceptlicense.py
+acceptlicense.egg-info/PKG-INFO
+acceptlicense.egg-info/SOURCES.txt
+acceptlicense.egg-info/dependency_links.txt
+acceptlicense.egg-info/requires.txt
+acceptlicense.egg-info/top_level.txt

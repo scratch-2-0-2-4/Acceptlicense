@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: acceptlicense
+Version: 0.1.0
+Summary: Un paquet python pour gérer vos licences
+Author-email: Scratch_2_0_2_4 <scratch.20.24.0@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/scratch-2-0-2-4/acceptlicense
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pytz
+Dynamic: license-file
+
+# Acceptlicense
+
+**Acceptlicense** est un logiciel vous permettant de vérifier l'état d'acceptation de vos licences.
